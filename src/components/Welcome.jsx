@@ -9,6 +9,7 @@ function Welcome() {
         <p>View and text directly to people present in 
             in the chat Room </p>
     </div>
+    
   )
 }
 
